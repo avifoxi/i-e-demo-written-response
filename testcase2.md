@@ -1,7 +1,7 @@
 You are developing for a product - there seems to be a discussion in a group of your team that developed the new analytics feature for the product, and they realized some shortcomings while doing so. One of the developer approaches you with the github issue below, and asks you for comments
 
 #### Building Product’s Analytics
-In January, we started building the Analytics section for the Product.  
+In January, we started building the Analytics section for the Product. 
 Our options were: using Angular.js, Chaplin.js or writing our own library. 
 We decided to write our own library based on some older js library we had from another project
 
